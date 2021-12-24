@@ -1,0 +1,16 @@
+C:\Users\Zach.MSI\source\repos\Say hello\bin\Debug\Say hello.exe.config
+C:\Users\Zach.MSI\source\repos\Say hello\bin\Debug\Say hello.exe
+C:\Users\Zach.MSI\source\repos\Say hello\bin\Debug\Say hello.pdb
+C:\Users\Zach.MSI\source\repos\Say hello\obj\Debug\Say hello.csproj.AssemblyReference.cache
+C:\Users\Zach.MSI\source\repos\Say hello\obj\Debug\Say hello.csproj.SuggestedBindingRedirects.cache
+C:\Users\Zach.MSI\source\repos\Say hello\obj\Debug\MainWindow.g.cs
+C:\Users\Zach.MSI\source\repos\Say hello\obj\Debug\App.g.cs
+C:\Users\Zach.MSI\source\repos\Say hello\obj\Debug\Say hello_MarkupCompile.cache
+C:\Users\Zach.MSI\source\repos\Say hello\obj\Debug\Say hello_MarkupCompile.lref
+C:\Users\Zach.MSI\source\repos\Say hello\obj\Debug\MainWindow.baml
+C:\Users\Zach.MSI\source\repos\Say hello\obj\Debug\Say hello.g.resources
+C:\Users\Zach.MSI\source\repos\Say hello\obj\Debug\Say_hello.Properties.Resources.resources
+C:\Users\Zach.MSI\source\repos\Say hello\obj\Debug\Say hello.csproj.GenerateResource.cache
+C:\Users\Zach.MSI\source\repos\Say hello\obj\Debug\Say hello.csproj.CoreCompileInputs.cache
+C:\Users\Zach.MSI\source\repos\Say hello\obj\Debug\Say hello.exe
+C:\Users\Zach.MSI\source\repos\Say hello\obj\Debug\Say hello.pdb
